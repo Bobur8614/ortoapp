@@ -1,5 +1,7 @@
 # Orto
 
+[![Downloads](https://img.shields.io/github/downloads/Bobur8614/ortoapp/total?label=yuklab%20olishlar)](https://github.com/Bobur8614/ortoapp/releases)
+
 **Orto** — jarohat/jarrohlikdan keyingi reabilitatsiya va mashqlar dasturini boshqarish uchun mo'ljallangan Android ilova. Foydalanuvchiga shaxsiy reabilitatsiya dasturi, kunlik mashqlar, progress kuzatuvi hamda mutaxassis bilan muloqot imkoniyatini beradi.
 
 > **Eslatma:** Bu repozitoriyda hozircha faqat tayyor `Orto.apk` fayli va IDE (`.idea`) konfiguratsiyasi mavjud — ilovaning manba kodi (source code) hali repoga qo'shilmagan. Quyidagi tavsif APK faylini (manifest, resurslar, klass nomlari) tahlil qilish orqali aniqlangan, shuning uchun ba'zi tafsilotlar taxminiy bo'lishi mumkin.
