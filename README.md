@@ -35,12 +35,16 @@ APK tarkibidagi ma'lumotlar (DTO va klass nomlari) asosida aniqlangan funksiyala
 |---|---|
 | Paket nomi | `uz.ilkhom.orto` |
 | Asosiy activity | `uz.ilkhom.orto.MainActivity` |
-| Versiya | 1.1 (APK'dan aniqlangan) |
+| Versiya | 1.1 |
 | Qo'llab-quvvatlanadigan arxitekturalar | `arm64-v8a`, `armeabi-v7a`, `x86`, `x86_64` |
+
+## Yuklab olish
+
+Eng so'nggi versiya: **[Orto.apk — GitHub Releases](https://github.com/Bobur8614/ortoapp/releases/latest)**
 
 ## O'rnatish
 
-1. `Orto.apk` faylini yuklab oling.
+1. Yuqoridagi havoladan `Orto.apk` faylini yuklab oling.
 2. Android qurilmangizda noma'lum manbalardan o'rnatishga ruxsat bering.
 3. `Orto.apk` faylini oching va o'rnatishni yakunlang.
 
